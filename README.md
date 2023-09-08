@@ -7,7 +7,7 @@ This repository contains the solution to the NoSQL challenge provided by Eat Saf
 
 The project is organized into the following sections:
 
-1. **Part 1: Database and Jupyter Notebook Set Up- NOSQL_setup_starter.ipynb**
+1. **Part 1: Database and Jupyter Notebook Set Up**
    - In this section, the data is imported into a MongoDB database named `uk_food` with a collection named `establishments`. The provided Jupyter notebook `NoSQL_setup_starter.ipynb` contains the code and steps for this setup.
 
 2. **Part 2: Update the Database**
